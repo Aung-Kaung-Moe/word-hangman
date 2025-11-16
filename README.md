@@ -1,3 +1,3 @@
 # word-hangman
-### To run in Window Powershell
+### Place words.txt in the same directory as Main.java and run below command:
 cmd /c "chcp 65001>nul && javac -encoding UTF-8 Main.java && java -Dfile.encoding=UTF-8 Main"
